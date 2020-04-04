@@ -17,6 +17,8 @@ import cl.intohybrid.restdemo.servicio.BlogService;
 @RestController
 public class BlogController {
 
+	//RestDemo
+	
 	@Autowired
 	private BlogService blogService;
 	
